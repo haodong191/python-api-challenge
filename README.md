@@ -1,6 +1,6 @@
 ## python-api-challenge
 
-#output_data folder
+# output_data folder
 Includes cities.csv with was outputted from WeatherPy.ipynb.
 
 # WeatherPy folder
