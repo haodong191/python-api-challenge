@@ -1,7 +1,7 @@
 ## python-api-challenge
 
 # output_data folder
-Includes cities.csv with was outputted from WeatherPy.ipynb.
+Includes cities.csv which was outputted from WeatherPy.ipynb.
 
 # WeatherPy folder
 The last cell in WeatherPy.ipynb includes my 3 observations.
